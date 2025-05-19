@@ -74,5 +74,9 @@ print("{:.2f}".format(ans))
 ![{2853A67C-F8AE-4244-9871-E22D42EF4E99}](https://github.com/user-attachments/assets/d88cdf3f-1e7d-4c2b-93aa-9b1dfbb75ff7)
 
 
+
+
+
 ## Result
+
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
